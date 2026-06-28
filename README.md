@@ -1,6 +1,10 @@
 # Render Alert
 <p align="center">
-  <a href="https://github.com/Jideeh1/Render-Alert/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/festivities/Flow?style=for-the-badge"></a><br>
+  <img src="/.Media/Blender_Alert ALT.png">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jideeh1/Render-Alert/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/festivities/Flow?style=for-the-badge"></a><br>
     <a href="https://github.com/Jideeh1/Render-Alert/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Jideeh1/Render-Alert?style=for-the-badge"></a>
     <a href=""><img alt="Discord" src="https://img.shields.io/badge/Version-v1.0.0-brightgreen?style=for-the-badge"></a>
     <a href="https://github.com/Jideeh1/Render-Alert/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Jideeh1/Render-Alert?style=for-the-badge"></a>
