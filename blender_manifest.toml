@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "render_alert"
-version = "1.1.0"
+version = "1.1.2"
 name = "Render Alert"
 tagline = "Plays a sound/custom sound when rendering finishes"
 maintainer = "Jideeh"
