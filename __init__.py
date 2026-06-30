@@ -23,7 +23,7 @@ _audio_handles = []
 
 
 def get_preferences():
-    addon = bpy.context.preferences.addons.get(__name__)
+    addon = bpy.context.preferences.addons.get(__package__)
     if addon:
         return addon.preferences
     return None
@@ -151,7 +151,7 @@ def draw_render_done_sound_ui(layout):
 
 
 class RENDER_DONE_SOUND_preferences(bpy.types.AddonPreferences):
-    bl_idname = __name__
+    bl_idname = __package__
 
     sound_mode: bpy.props.EnumProperty(
         name="Sound Mode",
@@ -233,5 +233,5 @@ def unregister():
         bpy.utils.unregister_class(cls)
 
 
-if __name__ == "__main__":
+if __package__ == "__main__":
     register()
