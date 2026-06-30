@@ -2,7 +2,6 @@
 <p align="center">
   <img src="/.Media/Blender_Alert ALT.png">
 </p>
-
 <p align="center">
   <a href="https://github.com/Jideeh1/Render-Alert/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/festivities/Flow?style=for-the-badge"></a><br>
     <a href="https://github.com/Jideeh1/Render-Alert/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Jideeh1/Render-Alert?style=for-the-badge"></a>
@@ -11,6 +10,7 @@
 </p>
 
 ---
+
 Render Alert is a Blender add-on that plays a sound when a render finishes.
 
 It's accessible in both:
@@ -19,6 +19,14 @@ It's accessible in both:
 - 3D Viewport N-panel
 
 You can use the default system beep or choose a custom audio file.
+
+## Installion and Usage
+
+
+https://github.com/user-attachments/assets/6ca23323-7cfb-44a2-adb6-676c6b122ef4
+
+
+---
 
 ## Features
 
